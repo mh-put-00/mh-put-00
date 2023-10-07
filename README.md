@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mh-put-00
+- 👀 I’m interested in machine learning, LLMs, OCR, data science.
+- 🌱 I’m currently learning Python, R, SQL, AppsScript.
+- 💞️ I’m looking to collaborate on research on AI in marketing and blockchain in supply chains.
+- 📫 How to reach me: mhput00@gmail.com
